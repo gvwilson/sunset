@@ -2,7 +2,16 @@
 
 <p class="subtitle" markdown="1">what this training does and doesn't cover</p>
 
-FIXME: describe
+> So much universe, and so little time.
+>
+> — Terry Pratchett
+
+-   For every beginning there must be an ending
+-   But we don't like to talk about that
+    -   Thousands of books in print about how to start a business
+    -   Only a handful about how to pass one on or wind one down
+-   Preparing for the end can make it less likely
+-   It also helps make what happens before then more enjoyable
 
 <div class="callout" markdown="1">
 
@@ -13,17 +22,6 @@ with people who did not take part
 without the prior, explicit permission of all attendees.
 
 </div>
-
-## Three Big Questions
-
-1.  Can you act unilaterally or do other people have a veto?
-    -   *Not* "have a stake in the outcome", but rather can disagree with you and make it stick
-    -   Subsidiary question: are those "other people" your peers or your superiors (e.g., your employer)?
-2.  Are you handing over or shutting down?
-    -   We view shutdown as "succession to zero"
-3.  Do you have days or months to prepare?
-    -   The former is usually involuntary
-    -   The latter allows for (some) structural changes before and during handover
 
 ## No Abstinence Solutions
 
@@ -56,6 +54,17 @@ people rely on [civil society](g:civil-society) [[](b:Solnit2010)].
 
 </div>
 
+## Three Big Questions
+
+1.  Can you act unilaterally or do other people have a veto?
+    -   *Not* "have a stake in the outcome", but rather can disagree with you and make it stick
+    -   Subsidiary question: are those "other people" your peers or your superiors (e.g., your employer)?
+2.  Are you handing over or shutting down?
+    -   We view shutdown as "succession to zero"
+3.  Do you have days or months to prepare?
+    -   The former is usually involuntary
+    -   The latter allows for (some) structural changes before and during handover
+
 ## Not Covered
 
 -   Community building
@@ -67,11 +76,3 @@ people rely on [civil society](g:civil-society) [[](b:Solnit2010)].
 -   For-profit businesses
     -   Much less material on succession in businesses than on starting up
     -   But this workshop focuses on open source, open data, and open science
-
-## Acknowledgments {: #acknowledgments}
-
--   [Yanina Bellini Saibene][bellini-saibene-yanina]
--   [Greg Wilson][wilson-greg]
-
-[bellini-saibene-yanina]: https://yabellini.netlify.app/
-[wilson-greg]: https://third-bit.com/

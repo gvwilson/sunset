@@ -23,7 +23,7 @@ clean:
 
 ## links: check links in published site
 links:
-	linkchecker -F text https://gvwilson.github.io/change/
+	linkchecker -F text https://gvwilson.github.io/succession/
 
 ## lint: check code and project
 lint:

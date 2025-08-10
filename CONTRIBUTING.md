@@ -7,11 +7,10 @@ All contributors must abide by our Code of Conduct.
 ## Setup and Operation
 
 -   Install [uv][uv].
--   Create a virtual environment by running `uv venv --python 3.12` in the root directory.
+-   Create a virtual environment by running `uv venv` in the root directory.
 -   Activate it by running `source .venv/bin/activate` in your shell.
 -   Install dependencies by running `uv sync`.
--   This project uses [McCole][mccole] to generate HTML and check the project's structure
--   Run `make` on its own to see a list of common commands
+-   Run `make` on its own to see a list of common commands.
 
 | make task | effect                            |
 | --------- | ----------------------------------|
@@ -21,6 +20,7 @@ All contributors must abide by our Code of Conduct.
 | links     | check links in published site     |
 | lint      | check structure and content       |
 | serve     | serve generated HTML              |
+| spelling  | check for unknown words           |
 
 ## Structure
 
@@ -29,29 +29,29 @@ All contributors must abide by our Code of Conduct.
     -   `slug` is short mnemonic
     -   Each lesson must have an `index.md` file containing its content
 -   Diagrams should be SVG files created with [draw.io][draw-io]
--   `bibliography.md` has the bibliography as a definition list
+-   `bibliography/index.md` has the bibliography as a definition list
     -   Citation keys have IDs for linking
     -   Use an inline HTML link `b:key` in files to create links
--   `glossary.md` has the glossary as definition list
+-   `glossary/index.md` has the glossary as definition list
     -   Reference keys have IDs for linking
     -   Use an inline HTML link `g:key` in files to create links
 -   The `static` directory contains static files
 -   The `templates` directory contains [Jinja][jinja] templates used to generate HTML
-    -   `page.html`: template for website pages
+    -   `page.html` is used for website pages
 
 ## FAQ
 
-Do you need any help?
+Do you need help?
 :   Yes—please see the issues in [our repository][repo].
 
 What sort of feedback would be useful?
 :   Everything is welcome,
-    from pointing out mistakes in the code to suggestions for better explanations.
+    from pointing out mistakes to suggestions for better explanations.
 
 Can I add a new section?
-:   Absolutely, but please [reach out][email] before doing so.
+:   Possibly, but please [reach out][email] before doing so.
 
-Why is this material free to read?
+Why is this material free?
 :   Because if we all give a little, we all get a lot.
 
 ## <a id="contributors">Contributors</a>
@@ -65,6 +65,7 @@ Why is this material free to read?
     He was the co-founder and first Executive Director of Software Carpentry
     and received ACM SIGSOFT's Influential Educator Award in 2020.
 
+[bellini-saibene-yanina]: https://yabellini.netlify.app/
 [draw-io]: https://www.drawio.com/
 [email]: mailto:gvwilson@third-bit.com
 [jinja]: https://jinja.palletsprojects.com/
