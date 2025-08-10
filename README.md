@@ -30,6 +30,10 @@ and how to achieve them.
 <div id="syllabus" markdown="1">
 
 1.  [Introduction](./01_intro/): what this training does and doesn't cover.
+2.  [Ample Warning](./02_long/): what to do when you have months to prepare.
+3.  [Short Notice](./03_short/): what to do when you only have days to prepare.
+4.  [Being Fired](./04_fired/): what to do when you have no notice at all.
+5.  [Shrinking the Team](./05_shrink/): what to do when it's someone else.
 
 </div>
 
