@@ -1,6 +1,6 @@
 # Being Fired
 
-<p class="subtitle">what to do when you have no notice at all</a>
+<p class="subtitle">what to do when you have no notice at all</p>
 
 I hope you're never fired,
 or if you are,
