@@ -56,16 +56,10 @@ Why is this material free?
 
 ## <a id="contributors">Contributors</a>
 
--   [*Yanina Bellini Saibene*][bellini-saibene-yanina] is a community builder, teacher, and researcher
-    based in La Pampa, Argentina.
-    She co-founded LatinR and MetaDocencia,
-    and is the R-Ladies project lead.
-
--   [*Greg Wilson*][wilson-greg] is a programmer, author, and educator based in Toronto, Canada.
+-   *[Greg Wilson][wilson-greg]* is a programmer, author, and educator based in Toronto, Canada.
     He was the co-founder and first Executive Director of Software Carpentry
     and received ACM SIGSOFT's Influential Educator Award in 2020.
 
-[bellini-saibene-yanina]: https://yabellini.netlify.app/
 [draw-io]: https://www.drawio.com/
 [email]: mailto:gvwilson@third-bit.com
 [jinja]: https://jinja.palletsprojects.com/

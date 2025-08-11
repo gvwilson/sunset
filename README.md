@@ -37,7 +37,7 @@ and how to achieve them.
 
 </div>
 
-##  Appendices
+## Appendices
 
 <div id="appendices" markdown="1">
 
@@ -49,6 +49,11 @@ and how to achieve them.
 
 </div>
 
+## Acknowledgments
+
+Many thanks to [Yanina Bellini Saibene][bellini-saibene-yanina]
+and [Richard Littauer][littauer-richard].
+
 <p class="center">
   <em>
     start where you are
@@ -59,5 +64,7 @@ and how to achieve them.
   </em>
 </p>
 
+[bellini-saibene-yanina]: https://yabellini.netlify.app/
 [email]: mailto:gvwilson@third-bit.com
+[littauer-richard]: https://www.burntfen.com/
 [repo]: https://github.com/gvwilson/succession
