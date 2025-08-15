@@ -52,7 +52,7 @@ or hand one over to new leadership.
 
 </div>
 
-## Acknowledgments
+## Acknowledgments {: #acknowledgments}
 
 -   [*Greg Wilson*][wilson-greg] is a programmer, author, and educator based in Toronto.
     He was the co-founder and first Executive Director of Software Carpentry
