@@ -1,7 +1,8 @@
-# Succession
+# At the End of the Day
 
-This workshop is a short introduction to handing projects over to new leadership
-(or winding them down).
+This workshop is a short introduction to handing projects over,
+winding them down,
+and moving on.
 All of the material is available under an [open license](./LICENSE.md),
 and contributions through our [repository][repo] are welcome.
 All participants are required to respect our [Code of Conduct](./CODE_OF_CONDUCT.md).
@@ -10,20 +11,20 @@ All participants are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 
 -   Vaida, 33, has a PhD in oceanography
     and now works as a data analyst for the Ministry of the Environment.
--   Vaida co-founded a volunteer group that teaches environmental science to high school students,
+-   Vaida has been collecting and publishing beach erosion data for the past six years.
+    She also co-founded a volunteer group that teaches environmental science to high school students,
     and has been its leader for the past five years.
 -   Vaida is relocating to pursue a new career opportunity,
-    but wants the volunteer group to continue its work.
-    However,
-    the only documentation of how the group operates is
+    so she wants to wind down her data collection project.
+    She also wants the volunteer group to continue its work,
+    but the only documentation of how it operates is
     one slide deck and a couple of out-of-date blog posts.
 -   Vaida is working hard to prepare for her new job,
     which means only has two or three hours a week for the next couple of months
-    to put into planning and handover.
+    to put into tidying things up.
 
-This workshop teaches Vaida the basics of succession planning,
-while the exercises help her figure out what changes she wants
-and how to achieve them.
+This workshop teaches Vaida how to shut down a project gracefully
+or hand one over to new leadership.
 
 ## Syllabus
 
