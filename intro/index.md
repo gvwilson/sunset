@@ -78,3 +78,7 @@ people rely on [civil society](g:civil-society) [[](b:Solnit2010)].
 -   For-profit businesses
     -   Much less material on succession in businesses than on starting up
     -   But this workshop focuses on open source, open data, and open science
+
+## Acknowledgments {: #acknowledgments}
+
+FIXME
