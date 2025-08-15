@@ -72,7 +72,6 @@ and [Richard Littauer][littauer-richard].
 </p>
 
 [bellini-saibene-yanina]: https://yabellini.netlify.app/
-[email]: mailto:gvwilson@third-bit.com
 [littauer-richard]: https://www.burntfen.com/
 [repo]: https://github.com/gvwilson/succession
 [wilson-greg]: https://third-bit.com/
