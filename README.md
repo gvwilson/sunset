@@ -54,6 +54,10 @@ or hand one over to new leadership.
 
 ## Acknowledgments
 
+-   [*Greg Wilson*][wilson-greg] is a programmer, author, and educator based in Toronto.
+    He was the co-founder and first Executive Director of Software Carpentry
+    and received ACM SIGSOFT's Influential Educator Award in 2020.
+
 Many thanks to [Yanina Bellini Saibene][bellini-saibene-yanina]
 and [Richard Littauer][littauer-richard].
 
@@ -71,3 +75,4 @@ and [Richard Littauer][littauer-richard].
 [email]: mailto:gvwilson@third-bit.com
 [littauer-richard]: https://www.burntfen.com/
 [repo]: https://github.com/gvwilson/succession
+[wilson-greg]: https://third-bit.com/
