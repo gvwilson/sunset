@@ -10,6 +10,8 @@
 -   But we don't like to talk about that
     -   Thousands of books in print about how to start a business
     -   Only a handful about how to pass one on or wind one down
+-   Your research project is (almost certainly) not a for-profit business with investors
+    -   Growth for its own sake (probably) hasn't been your goal [[](b:Burlingham2016)]
 -   Preparing for the end can make it less likely
 -   It also helps make what happens before then more enjoyable
 
