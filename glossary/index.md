@@ -18,5 +18,5 @@
 <span id="individual-threat">individual threat</a>
 :   FIXME
 
-<span id="leadership-threat">leadershipthreat</a>
+<span id="leadership-threat">leadership threat</a>
 :   FIXME
