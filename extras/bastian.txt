@@ -1,0 +1,77 @@
+# Bastian
+
+Bastian Greshake Tzovaras <bgreshake@proton.me>
+
+- Brief biography
+  - Biology/ecology/bioinformatics background
+  - Interest in open source got him from bio to programming
+- First involvement with open source
+  - Had a lesson in Python toward end of undergrad
+  - Started opening issues and then contributing
+  - Mostly bioinformatics
+  - Branched out into citizen-driven science, e.g., OS software for people collecting/using their own data
+- Origins of the project
+  - Started project in 2011 in a friend with his own data from 23andMe
+  - Wanted a way to share with other scientists (that kind of data wasn't yet common except Harvard Personal Genome Project)
+  - "A useful thing to build and a training opportunity"
+- Publicizing it?
+  - "The golden age of Twitter for scientific open source" (before it became algorithmically driven)
+  - And then going to conferences etc.
+- Top of the arc?
+  - Consciously never looked into getting funding: always did this as a side project paid for out of their own pockets or Patreon-esque
+  - Got a couple of small awards to pay server costs
+  - Never wanted to depend on this for income
+  - Got some people donating their genetic data early on (at least 2-3 people/day)
+  - Over 8000 human genomes by the end
+  - What took longer was getting people interested in *using* the data (chicken and egg problem)
+  - People used the data for education (real-world data for university courses, used in theses, etc.)
+  - Also had regular academic research being done using this data
+    - Genomic privacy researchers
+    - Psychologists
+    - Photics reflex ("do you sneeze if you look at the sun?")
+- How it ended
+  - Took about a year to decide to shut it down (started July 2024)
+  - When 23andMe making the news for possible bankruptcy
+  - Most of their data came from there, raised the question, "What do we do now?"
+  - Is it worth keeping the platform around? Make an archive?
+  - It was still just a side project, so if there's no new data, it's not useful to keep it going
+  - Everything changed at the start of 2025 w/ Trump Administration
+  - Had never seen big-impact scientific papers they'd hoped for
+  - Not much scientific value, but risk that unethical people can read into the data whatever they want
+  - Responsible thing is to shut down the project
+  - Was never dependent on project for income, so could pull the plug without impacting livelihood
+  - Sad to throw away these years of work, but not homeless as a result
+- Who else involved in decision?
+  - Bastian, Philip, and Helga (core team throughout project)
+  - Had student interns and other casual contributors, but no one else really got engaged
+  - Initial 3-way conversion in July/August 2024, agreed to postpone decision (but had raised it)
+  - When 23andMe's bankruptcy became clear and concerns about who would own the data loomed large, trio agreed
+- Shutdown mechanics
+  - "If you want to download your data, please do it now" (deadline date given)
+  - Emailed 10K registered users
+  - Could download own data (or others') and then shut it down
+  - Code still lives as GitHub archive
+  - Not many individuals downloaded (very intentionally minimized logging)
+  - Did see a burst of academic interest (whole database at once): hitting data limit on VMs
+- Lessons learned
+  - Announcing to everyone led to people crushing server trying to get data before it went away
+    - Not intention: goal was to let individuals get their own data
+  - Thinking about timeline went well
+    - Giving people a heads-up helped
+    - Gave people over a month
+    - Didn't have anyone approach them after that saying "oops I missed it"
+  - Many users wrote to the trio saying they understood the reasoning and supported it (mostly US-based users)
+  - Only one or two said "this is premature"
+    - Those were the people using data, not sharing data
+  - Glad that they started thinking about it early
+    - Gave the trio time to think about it (nine months)
+  - Keeping their minds open to the possibility of shutdown helped as well
+- How do you feel about all of this now?
+  - Still believe it was the right decision
+  - Sleeps better knowing that they took whatever steps they could to prevent harm
+  - Had tongue-in-cheek terms of service at the start, which at the time was very abstract
+  - Proud that they managed to keep that honesty all the way through
+- Final comments?
+  - Not really about open source, but about the use of software in general
+  - Option is people who keep going when it would have been better to pull the plug
+  - Emotional sunk-cost fallacy

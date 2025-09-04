@@ -1,0 +1,91 @@
+# Konrad
+
+Konrad Hinsen <konrad.hinsen@cnrs.fr>
+
+- Brief biography
+  - Physics researcher working on protein simulation
+  - Fed up with Fortran and helped found NumPy, then got fed up with Python :-)
+  - Software is always a means to an end
+  - Working in France
+- First involvement with open source
+  - Hadn't heard of OS before adopting Python / NumPy
+  - First project he contributed to was NumPy (which he helped start)
+  - Everyone was using Python; OS seemed the obvious thing to do
+- Origins of the project
+  - Molecular modeling toolkit (first domain-specific scientific library in Python 1.5 in 1996)
+    - Older than NumPy and SciPy
+  - Initially used Python to process input files for something else
+  - Turned into "why don't we use Python to do all of this?"
+  - Open source from the very first version (put it on his personal file server)
+- Publicizing it?
+  - Talked to Python community about technicalities of implementation
+  - Talked to professional colleagues at conferences
+  - Very mixed reception defined in part by age
+    - First reaction: "Python? Even the name isn't serious"
+  - Right from the beginning there were people who were happily jumping on it
+  - Initial users were almost exclusively grad students
+  - Had his own mailing list: main topic was "how do I convince my supervisor?" (ca. 2000)
+- Top of the arc?
+  - Library consisting of lots of Python + hand-written C for performance-critical areas
+  - Advertised this to others as a model
+  - Not "C with a Python interface" but "Python with a bit of C you can ignore"
+  - This later created problems: couldn't move it to Python 3 because C interface changed
+  - Mailing list peaked at 50 people, but no idea how many were active users
+  - Hard to say how many users at a time
+    - Most were PhD students, most of whom left science after completing their degree
+    - 20-25 people used it for many years (he got to know them)
+  - PhD students wouldn't even sign up on mailing list but would email personally
+    - Most in India or China
+    - "Not supposed to talk about their work in public"
+    - Supervisors' rules
+    - Asked technical questions but didn't go into details about their work
+- How it ended
+  - Python 3 was the big issue
+  - Had many years to make transition: many discussion among principal users
+    - PhD students didn't count :-)
+  - Discussion included institutions that had built software on top of the package
+  - "We should try to get money to hire someone to port this to Python 3"
+    - Which meant rewriting the C code
+    - And putting in lots of tests since low-level functionality wasn't fully documented
+    - Found a company to do the work but couldn't find money
+  - If you can Python 2 to work on your system you can still run it, but very few do
+  - Timeline
+    - Actively looking for funding around 2010
+    - Core group discussed funding sources regularly for 2-3 years
+    - All the institutions changed directors in that time - it was a bit of a mess
+    - Kept getting email "when will you have a Python 3 version?"
+    - Answer: "When I get money"
+    - Someone opened a BitBucket issue: should it be considered a bug or a feature?
+    - Looked outside institutions for community-style funding
+    - Everyone was happy to proof-read documentation but no one had time to do the bulk of the work
+- Who else involved in decision?
+  - See above about core group of users
+- Shutdown mechanics
+  - Put it in archive mode on GitHub
+  - By the time it wound down no-one expected a Python 3 version
+  - Archiving was just formal confirmation of that
+- Lessons learned
+  - Do you plan to wind things down? How long do you expect it to live?
+  - He hadn't thought about this and neither had anyone else
+  - Question of whether it would be long-running project with official support was never considered until the moment arrived
+  - There are several large packages in the field (e.g. GROMACS) that most people use but which no-one really understands - they just use it
+  - "We don't want to become a big thing like the others" precluded institutional support
+  - Would have been a good idea to think from the start "how should this age?"
+  - There are still no funding schemes for this kind of thing
+- How do you feel about all of this now?
+  - It was a good time - no regrets
+  - It served its purpose, it brought a small engaged minority of people together
+  - Being a small minority in the molecular simulation community was fun
+    - The mailing list was a good meeting point
+  - Regrets that there is nothing today to replace it
+  - If you want to replace a simulation method, you have to get a job at one of the big labs and find a mentor to show you around one of the big codes
+- Final comments?
+  - Most interesting question is, "What would you have done different?"
+  - KH was a lot younger when he started this (so was everyone else)
+  - No-one ever envisaged that the Python community would kill Python 2
+  - Could not prepare for this scenario
+  - KH thinks it was badly handled
+    - Believes the Python community believes in retrospect that mistakes were made
+    - Thinks of Python 3 as a fork of Python 2
+    - Should have done that explicitly so that someone could take over Python 2
+    - Preferred killing 10% of the community to losing 30% to a competing fork
