@@ -1,0 +1,91 @@
+# Juan Luis / 2025-09-04
+
+Juan Luis Cano Rodríguez <hello@juanlu.space>
+
+- Brief biography
+  - Studied aerospace engineering (not very software-heavy: Excel, MATLAB, Fortran)
+  - But had been coding for fun since a teenager (e.g., Flash games)
+  - Transitioned through various jobs from programming in a satellite company in Python to developer relations (current career)
+  - Had started developing poliastro (open source project)
+  - Strong involvement in Spanish Python community (helped found Spanish Python org and first Spanish Python conferences)
+- First involvement with open source
+  - See above
+- Origins of the project
+  - Did international year in Milan in 2012-13
+  - Had to do some orbital analysis in a course project, given a mass of MATLAB and Fortran
+  - Tried to tie it together with Python, which he was just starting to learn
+  - Became v0.1 of poliastro ca. 2013
+  - Kept improving it over time: gradually removed MATLAB parts
+  - NUMBA appeared in 2015, which allowed him to get rid of the Fortran and use pure Python
+    - Improved developer experince
+    - Also made installation easier for Windows users
+  - Became pure-Python ca. 2016
+  - Started participating as a mentor in GSoC
+- Publicizing it?
+  - Talked about it at every conference he attended (which were mostly Python conferences - not a lot of astro people)
+  - Took it to an industry conference in 2016, started to get a little more attention
+  - Paid a lot of attention to create fun examples
+    - E.g., near-approach asteroid in 2017, used that as excuse to create tutorial and make noise on Twitter
+  - Not doing a lot of advertising
+  - People found it because it was the only Python astrodynamics project w/ sustained activity
+- Top of the arc?
+  - He was only maintainer in early years
+  - But then joined OpenAstronomy and GSoC
+  - Very rare to get someone out of the blue contributing regularly
+  - Ca. 2018 a GSoC student made a large contribution and stuck around
+    - Effectively became second maintainer w/ write access to repo
+  - Toward the end of the decade got some support through NumFOCUS grant scheme for small sprints
+  - By 2021 they were part of OpenAstronomy, NumFOCUS, and others
+  - Lots of commercial users (to his surprise)
+    - Only started finding out about them when he created mailing list and he saw work emails
+    - Satellite companies, NASA, etc.
+    - Some professors using it for teaching
+    - Some small projects started building things on top of it
+- How it ended
+  - Circumstances after the pandemic
+    - JL left the space industry (weird vibes from Elon Musk fans)
+    - Stopped using poliastro himself, so maintaining for others became a chore
+  - Had plateaued in what they could do
+    - Had replaced Fortran w/ NUMBA but started hitting limits of dependencies
+    - AstroPy was excruciatingly slow for some applications
+    - SciPy methods weren't in a good shape
+    - Clear that they needed focused developer time to move forward, which meant getting grants
+    - But because he wasn't working in the industry any more, difficult to even formulate that
+  - Had an annoying experience with a commercial user
+    - It was a tiny thing (someone ghosting him) but it annoyed him
+  - Had another contributor who wanted to use the software commercially making lots of suggestions to transform the project completely
+    - JL started getting overwhelmed by all the suggestions
+  - Decided to step down
+    - Asked the former GSoC student (Jorge) if he wanted to take ownership
+    - Initially Jorge said yes
+    - JL drafted a blog post based in part on GW's CarpentryCon talk
+    - But Jorge was working in industry on widely-used mission analysis software
+    - They told him he had a conflict of interest, so he had to step down
+    - So the project had no maintainers
+  - JL decided to archive the project rather than giving nine years of work to a stranger
+    - Wanted to preserve the reputation of the name
+- Who else involved in decision?
+  - Jorge (see above)
+- Shutdown mechanics
+  - JL stepped down and gave passwords to Jorge
+  - Project continued for a few months w/ JL in the chats etc., but giving Jorge room to grow into sole maintainer role
+  - Then Jorge wrote his own goodbye blog post (see above)
+  - So it was time to archive it
+  - JL opened a GitHub issue telling the community w/ two months' warning
+  - "Archive unless someone can change my mind"
+  - People were sad but said nice things in the issue
+  - The intense contributor asked for the keys to the project
+    - Said the poliastro brand was very recognizable, didn't want to have to rebuild that from scratch
+    - But JL knew that when someone says a project is about to archived, last-minute volunteers often don't stick
+    - JL said he would be happy to endorse a fork but didn't want to give the name away
+- Lessons learned
+  - Can't think of any way to improve the way he shut it down
+  - Would tell his past self that the project is valuable to a lot of people, but it cannot be sustained on vibes
+  - "Get serious about finding support for this project" (e.g., get commercial support, which he never tried)
+- How do you feel about all of this now?
+  - Has been learning Rust in the past year (has given conference talks on how to accelerate scientific Python code)
+  - Is using poliastro algorithms for examples even though project is archived
+  - Project might have a second life
+  - But is about to start new job at Canonical
+  - Is at peace with the experience: had a lot of fun, made a big impact, learned a lot of things about mentoring and handling contributors
+  - Doesn't feel nostalgic or melancholic: has turned that page
